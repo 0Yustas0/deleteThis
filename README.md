@@ -8,7 +8,7 @@
 * Они пушистые
 
 
-  ![Image of cat]([https://github.com/blademoon/Markdown/blob/main/Picture/cat.jpg](https://www.ferra.ru/imgs/2024/05/08/05/6460496/c2150453d059e8999c5f0b211ce334f7c869147c.jpg))
+  ![Image of cat]([[https://github.com/blademoon/Markdown/blob/main/Picture/cat.jpg](https://www.ferra.ru/imgs/2024/05/08/05/6460496/c2150453d059e8999c5f0b211ce334f7c869147c.jpg)](https://www.ferra.ru/imgs/2024/05/08/05/6460496/c2150453d059e8999c5f0b211ce334f7c869147c.jpg))
 
 
 
