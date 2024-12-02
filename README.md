@@ -8,7 +8,7 @@
 * Они пушистые
 
 
-  ![Image of cat](file:///C:/Users/IS/Downloads/i.webp)
+  ![Image of cat]([file:///C:/Users/IS/Downloads/i.webp](https://avatars.mds.yandex.net/i?id=e339fc622756af285f34aa7777d37444_l-5234706-images-thumbs&n=13))
 
 
 
